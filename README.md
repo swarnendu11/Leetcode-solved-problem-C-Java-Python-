@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0643-maximum-average-subarray-i) |
+| [1319-unique-number-of-occurrences](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
@@ -43,5 +44,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1392-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
