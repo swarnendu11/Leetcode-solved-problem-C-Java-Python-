@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
