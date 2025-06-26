@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
