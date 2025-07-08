@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0392-is-subsequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1319-unique-number-of-occurrences](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/swarnendu11/Leetcode-solved-problem-C-Java-Python-/tree/master/1392-find-the-difference-of-two-arrays) |
